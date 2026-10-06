@@ -1,5 +1,7 @@
 # Dark Harmony - btop theme
 
+![btop dark_harmony theme](demo/sample.webp)
+
 A simple **black and red** theme for [btop](https://www.github.com/aristocratos/btop).
 
 ## Installation
